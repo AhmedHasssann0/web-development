@@ -1,0 +1,19 @@
+body {
+  background-color: #253ebf;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding :100px
+}
+
+h1 {
+font-family: Georgia, serif;
+  margin-top: 40px;
+  color:white
+}
+
+button {
+  padding: 6px 12px;
+  margin: 3px;
+  cursor: pointer;
+}
+
