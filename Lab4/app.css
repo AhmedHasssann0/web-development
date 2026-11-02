@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid gray;
+}
+
+input {
+  width: 250px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+p {
+  border-bottom: 1px solid lightgray;
+}
